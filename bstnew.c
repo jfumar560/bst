@@ -3,6 +3,10 @@
 #include <stdlib.h>
 #include <stdio.h>
 #define COUNT 10
+#include <windows.h>
+#include <wchar.h>
+
+
 
 typedef struct BSTnodeList{
 	int data;
